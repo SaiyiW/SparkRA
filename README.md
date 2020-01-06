@@ -2,7 +2,7 @@
 
 SparkRA is an Apache Spark based scalable implementation of the best practice RNA analysis pipeline by Broad Institute. A paper describing its implementation was accepted by Genes. So, if you use SparkRA for your work, please cite the following paper.
 
-> 
+> Z. Al-Ars, S. Wang, H. Mushtaq, "SparkRA: Enabling Big Data Scalability for the GATK RNA-seq Pipeline with Apache Spark”, Genes 2020, 11, 53. https://doi.org/10.3390/genes11010053
 
 This README contains the following sections.
 1. **System requirements and Installation**
